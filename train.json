@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is a laptop?",
+        "answer": "A laptop is a portable computer used for personal and professional work."
+    },
+    {
+        "question": "How do I charge a laptop?",
+        "answer": "Connect the charger to the laptop and plug it into a power outlet."
+    },
+    {
+        "question": "How do I connect to Wi-Fi?",
+        "answer": "Open network settings, select your Wi-Fi network and enter the password."
+    }
+]

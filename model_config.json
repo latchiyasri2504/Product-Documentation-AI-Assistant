@@ -1,0 +1,11 @@
+{
+    "project_name": "Product Documentation AI Assistant",
+    "model_name": "To be selected",
+    "model_type": "Small Language Model",
+    "task": "Answer product-related questions",
+    "max_new_tokens": 150,
+    "temperature": 0.3,
+    "dataset_format": "JSON",
+    "training_method": "To be decided",
+    "optimization": "To be decided"
+}
